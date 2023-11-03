@@ -1,3 +1,7 @@
+
+  ![Resim2](https://github.com/nurullahmertel/nurullahmertel/assets/128043817/9d4d5819-8326-4a33-a050-c4d46772b9d0)
+
+
 # Hi there, I'm Nurullah Mertel 👋
 I am currently an electrical and electronics engineering student and I am constantly pursuing to improve myself in the field of software.
 
@@ -13,31 +17,41 @@ I am currently an electrical and electronics engineering student and I am consta
 
 > 2019-2024 (Cont.)
 
-Highlighting Courses: First Semester
-1. CALCULUS 1
-2. INTRODUCTION TO ELECTRICAL&ELECTRONICS ENGINEERING
-3. OCCUPATIONAL HEALTH AND SAFETY 1
-4. INTRODUCTION TO C PROGRAMMING
+### Highlighting Courses 
+First Semester
+1. Calculus 1
+2. Introduction to Electrical$Electronics Engineering
+3. Occupational Health and Safety 1
+4. Introduction to C programming
 
 Second Semester
-1. CALCULUS 2
-2. OCCUPATIONAL HEALTH AND SAFETY 2
-3. OBJECT-ORIENTED PROGRAMMING WITH C++
-4. CIRCUIT ANALYSIS 1
+1. Calculus 2
+2. Occupational Health and Safety 2
+3. Object-Oriented Programming with C++
+4. Circuit Analysis 1
 
 Third Semester
-1. CIRCUIT ANALYSIS 2
-2. PROBABILITY AND RANDOM VARIABLES
-3. DIGITAL LOGIC DESIGN
+1. Circuit Analysis 1
+2. Probability and Random Variables
+3. Digital Logic Design
+4. Programming with Matlab
 
 Fourth Semester
-1. ELECTRONICS 1
+1. Electronics 1
+2. Technical Drawing with AutoCAD
+3. Introduction to Data Science
 
 Fifth Semester
-1. ELECTRONICS 2
+1. Electronics 2
+2. Microprocessors
 
 Sixth Semester
+1. Signals and Systems
+2. Communication Theory 1
+3. Feedback Control Systems
+4. Embedded Systems
 
 Seventh Semester
-1.
-
+1. Introduction to Machine Learning
+2. Communication Theory 2
+3. Modern Control Theory
