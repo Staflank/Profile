@@ -3,7 +3,7 @@
 
 
 # Hi there, I'm Nurullah Mertel 👋
-I am currently an electrical and electronics engineering student and I am constantly pursuing to improve myself in the field of software.
+I am currently an 4th year electrical and electronics engineering student and I am constantly pursuing to improve myself in the field of software.
 
 ### Cool stuff about me
 * 🔭I’m currently working on an autonomous rover project
