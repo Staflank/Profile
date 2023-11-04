@@ -31,7 +31,7 @@ Second Semester
 4. Circuit Analysis 1
 
 Third Semester
-1. Circuit Analysis 1
+1. Circuit Analysis 2
 2. Probability and Random Variables
 3. Digital Logic Design
 4. Programming with Matlab
