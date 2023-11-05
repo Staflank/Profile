@@ -1,7 +1,3 @@
-
-  ![Resim2](https://github.com/nurullahmertel/nurullahmertel/assets/128043817/9d4d5819-8326-4a33-a050-c4d46772b9d0)
-
-
 # Hi there, I'm Nurullah Mertel 👋
 I am currently an 4th year electrical and electronics engineering student and I am constantly pursuing to improve myself in the field of embedded systems.
 
