@@ -51,6 +51,7 @@ Seventh Semester
 1. Introduction to Machine Learning
 2. Communication Theory 2
 3. Modern Control Theory
+4. Systems Engineering
 
 # Certificates
 | Number | Name | Date | Issued By
