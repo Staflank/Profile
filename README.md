@@ -15,16 +15,16 @@ I am currently an 4th year electrical and electronics engineering student and I 
 
 ### Highlighting Courses 
 First Semester
-1. Calculus 1
-2. Introduction to Electrical&Electronics Engineering
-3. Occupational Health and Safety 1
-4. Introduction to C programming
+• Calculus 1
+• Introduction to Electrical&Electronics Engineering
+• Occupational Health and Safety 1
+• Introduction to C programming
 
 Second Semester
-1. Calculus 2
-2. Occupational Health and Safety 2
+• Calculus 2
+• Occupational Health and Safety 2
 3. Object-Oriented Programming with C++
-4. Circuit Analysis 1
+4. Circuit Analysis 1 
 
 Third Semester
 1. Circuit Analysis 2
