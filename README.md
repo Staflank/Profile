@@ -1,5 +1,5 @@
 # Hi there, I'm Nurullah Mertel 👋
-I am currently an 4th year electrical and electronics engineering student and I am constantly pursuing to improve myself in the field of embedded systems.
+I am currently a 4th year electrical and electronics engineering student and I am constantly pursuing to improve myself in the field of embedded systems.
 
 ### Cool stuff about me
 * 🔭I’m currently working on an autonomous rover project
@@ -15,14 +15,14 @@ I am currently an 4th year electrical and electronics engineering student and I 
 
 ### Highlighting Courses 
 First Semester
-• Calculus 1
-• Introduction to Electrical&Electronics Engineering
-• Occupational Health and Safety 1
-• Introduction to C programming
+1. Calculus 1
+2. Introduction to Electrical & Electronics Engineering
+3. Occupational Health and Safety 1
+4. Introduction to C programming
 
 Second Semester
-• Calculus 2
-• Occupational Health and Safety 2
+1. Calculus 2
+2. Occupational Health and Safety 2
 3. Object-Oriented Programming with C++
 4. Circuit Analysis 1 
 
