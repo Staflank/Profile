@@ -51,3 +51,9 @@ Seventh Semester
 1. Introduction to Machine Learning
 2. Communication Theory 2
 3. Modern Control Theory
+
+# Certificates
+| Number | Name | Date | Issued By
+| --- | --- | --- | --- |
+| 1 | [Beden Dili](https://github.com/nurullahmertel/nurullahmertel/files/13467720/1.Beden.Dili.11.11.2023.pdf) | 11 November 2023 | [Udemy](https://www.udemy.com)
+| 2 | Show file differences that haven't been staged |
