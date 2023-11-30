@@ -33,13 +33,14 @@ Third Semester
 4. Programming with Matlab
 
 Fourth Semester
-1. Electronics 1
+1. Analog Electronics 1
 2. Technical Drawing with AutoCAD
 3. Introduction to Data Science
 
 Fifth Semester
-1. Electronics 2
+1. Analog Electronics 2
 2. Microprocessors
+3. Quality Management
 
 Sixth Semester
 1. Signals and Systems
