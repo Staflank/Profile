@@ -57,7 +57,7 @@ Seventh Semester
 # Certificates
 | Number | Name | Date | Issued By
 | --- | --- | --- | --- |
-| 1 | [Engineering Career Summit '23](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/Engineering%20Career%20Summit%20'23.pdf) | 06 December 2023 | [Youthall](https://www.youthall.com/tr/)
+| 1 | [Engineering Career Summit '23](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/Engineering%20Career%20Summit%20'23.pdf) | 06 December 2023 | Youthall
 | 2 | [Beden Dili](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/Beden%20Dili.pdf) | 11 November 2023 | [Udemy](https://www.udemy.com)
 | 3 | [Algoritma 101](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/Algoritma%20101.pdf) | 18 October 2023 | [Digicertify](https://digicertify.net)
 | 4 | [Pyhton 40 minutes](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/Pyhton%2040%20minutes.pdf) | 05 October 2023 | [Udemy](https://www.udemy.com)
