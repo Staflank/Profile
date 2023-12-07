@@ -11,7 +11,7 @@ I am currently a 4th year electrical and electronics engineering student and I a
 ### Ankara University
 > Bachelor of Engineering - BE, Electrical and Electronics Engineering - GPA 3.09
 
-> 2019-2024 (Cont.)
+> 2020-2024 (Cont.)
 
 ### Highlighting Courses 
 First Semester
