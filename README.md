@@ -5,7 +5,7 @@ I am currently a 4th year electrical and electronics engineering student and I a
 * 🔭I’m currently working on an autonomous rover project
 * 🌱I’m currently learning everything that makes sense
 * 📫Reach me at: nurullahmertell@gmail.com
-* ⚡I like to play 8-ball pool and pet cats
+* ⚡I like to play ping pong and pet cats
 
 # Education
 ### Ankara University
