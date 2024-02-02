@@ -1,5 +1,5 @@
 # Hi there, I'm Nurullah Mertel 👋
-I am currently a senior student of electrical and electronics engineering and I am constantly pursuing to improve myself in the field of embedded systems.
+I am currently a senior student of Electrical and Electronics Engineering and I am constantly pursuing to improve myself in the field of embedded systems.
 
 ### Cool stuff about me
 * 🔭I’m currently working on an autonomous rover project
