@@ -16,9 +16,9 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 ### Highlighting Courses 
 First Semester
 * Calculus 1
-* Introduction to Electrical & Electronics Engineering
-* Occupational Health and Safety 1
-* Introduction to C programming
+** Introduction to Electrical & Electronics Engineering
+*** Occupational Health and Safety 1
+*** Introduction to C programming
 
 Second Semester
 * Calculus 2
@@ -43,10 +43,10 @@ Fifth Semester
 * Quality Management
 
 Sixth Semester
-1. Signals and Systems
-2. Communication Theory 1
-3. Feedback Control Systems
-4. Embedded Systems
+* Signals and Systems
+* Communication Theory 1
+* Feedback Control Systems
+* Embedded Systems
 
 Seventh Semester
 * Introduction to Machine Learning
