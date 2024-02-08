@@ -76,11 +76,11 @@ Seventh Semester
 
 # Professional Experience
 ### Türk Standardları Enstitüsü                                        
+> 08.2023 – 09.2023
+
 > Elektroteknik Lab. Ankara Müdürlüğü
 
-> Summer Intern
-
-> 08.2023 – 09.2023
+> Summer Internship
 
 * We tested the compliance of electrical cables with relevant ISO standards by performing experiments such as wall thickness and tensile-rupture strength. In this way, we ensured the reliability and sustainability of the cables.
 
