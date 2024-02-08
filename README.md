@@ -16,9 +16,9 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 ### Highlighting Courses 
 First Semester
 * Calculus 1
-** Introduction to Electrical & Electronics Engineering
-*** Occupational Health and Safety 1
-*** Introduction to C programming
+* Introduction to Electrical & Electronics Engineering
+* Occupational Health and Safety 1
+* Introduction to C programming
 
 Second Semester
 * Calculus 2
