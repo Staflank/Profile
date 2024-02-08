@@ -75,9 +75,10 @@ Seventh Semester
 | 3 | Ankara 4. Sanayi Devrimi Yolunda | 25.01.2020 | Ankara Universitesi Akilli Sistemler ve Teknolojiler Uygulama ve Arastirma Merkezi (ASTAM) 
 
 # Professional Experience
-**Türk Standardları Enstitüsü**                                         08.2023 – 09.2023
-**Elektroteknik Lab. Ankara Müdürlüğü**
-**Summer Intern**
+> **Türk Standardları Enstitüsü**                                         
+> **Elektroteknik Lab. Ankara Müdürlüğü**
+> **Summer Intern**
+> 08.2023 – 09.2023
 
 •  We tested the compliance of electrical cables with relevant ISO standards by performing experiments such as wall thickness and tensile-rupture strength. In this way, we ensured the reliability and sustainability of the cables.
 •  In the IP laboratory, we tested the durability of the devices against extreme conditions by conducting water and dust permeability experiments, especially on lighting devices.
