@@ -75,7 +75,7 @@ Seventh Semester
 | 3 | Ankara 4. Sanayi Devrimi Yolunda | 25.01.2020 | Ankara Universitesi Akilli Sistemler ve Teknolojiler Uygulama ve Arastirma Merkezi (ASTAM) 
 
 # Professional Experience
-> **Türk Standardları Enstitüsü**                                         
+### Türk Standardları Enstitüsü                                        
 > **Elektroteknik Lab. Ankara Müdürlüğü**
 > **Summer Intern**
 > 08.2023 – 09.2023
