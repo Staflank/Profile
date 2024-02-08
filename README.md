@@ -66,3 +66,12 @@ Seventh Semester
 | 7 | [İş Sağlığı ve Güvenliği Belgesi](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%20Belgesi.pdf) | 03 June 2023 | ÇASGEM
 | 8 | [FPGA ile Dİjital Tasarım](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/FPGA%20ile%20Dijital%20Tasar%C4%B1m.pdf) | 02 March 2023 | Udemy
 | 9 | [English for Career Development](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/English%20for%20Career%20Development.pdf) | 09 October 2022 | Coursera
+
+# Seminars Attended
+| Number | Name | Date | Issued By
+| --- | --- | --- | --- |
+| 1 | | Sufle Mühendisliğine Giriş | | 16 December 2023 | | Ankara Üniversitesi Mühendislik Fakültesi 
+| 2 | | Birinci Elektronik Harp Sempozyumu | | 6 December 2023 | | Savunma Sanayii Başkanlığı (SSB) 
+| 3 | | Ankara 4. Sanayi Devrimi Yolunda | | 25 January 2020 | | Ankara Üniversitesi Akıllı Sistemler ve Teknolojiler Uygulama ve Araştırma Merkezi (ASTAM) 
+
+# Professional Experience
