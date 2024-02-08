@@ -81,6 +81,7 @@ Seventh Semester
 > 08.2023 – 09.2023
 
 •  We tested the compliance of electrical cables with relevant ISO standards by performing experiments such as wall thickness and tensile-rupture strength. In this way, we ensured the reliability and sustainability of the cables.
+
 •  In the IP laboratory, we tested the durability of the devices against extreme conditions by conducting water and dust permeability experiments, especially on lighting devices.
  
 
