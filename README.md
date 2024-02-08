@@ -9,9 +9,9 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 
 # Education
 ### Ankara University
-> Bachelor of Engineering - BE, Electrical and Electronics Engineering - GPA 3.09
+> Bachelor of Engineering - BE, Electrical and Electronics Engineering - GPA 3.12
 
-> 2020-2024 (Cont.)
+> 2019-2024 (Cont.)
 
 ### Highlighting Courses 
 First Semester
