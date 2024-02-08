@@ -71,7 +71,7 @@ Seventh Semester
 | Number | Name | Date | Issued By
 | --- | --- | --- | --- |
 | 1 | Sufle Mühendisligine Giris | 16.11.2023 | Ankara Universitesi Muhendislik Fakultesi 
-| 2 | Birinci Elektronik Harp Sempozyumu | 6.11.2023 | Savunma Sanayii Baskanligi (SSB) 
+| 2 | Birinci Elektronik Harp Sempozyumu | 06.11.2023 | Savunma Sanayii Baskanligi (SSB) 
 | 3 | Ankara 4. Sanayi Devrimi Yolunda | 25.01.2020 | Ankara Universitesi Akilli Sistemler ve Teknolojiler Uygulama ve Arastirma Merkezi (ASTAM) 
 
 # Professional Experience
