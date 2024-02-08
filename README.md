@@ -85,5 +85,6 @@ Seventh Semester
 * We tested the compliance of electrical cables with relevant ISO standards by performing experiments such as wall thickness and tensile-rupture strength. In this way, we ensured the reliability and sustainability of the cables.
 
 * In the IP laboratory, we tested the durability of the devices against extreme conditions by conducting water and dust permeability experiments, especially on lighting devices.
- 
+
+* [Certificate of Participation](https://github.com/nmertel/Certificates/blob/main/Certificates%20PDF/TSE%20Staj%20Kat%C4%B1l%C4%B1m%20Belgesi.pdf)
 
