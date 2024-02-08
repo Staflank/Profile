@@ -15,32 +15,32 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 
 ### Highlighting Courses 
 First Semester
-1. Calculus 1
-2. Introduction to Electrical & Electronics Engineering
-3. Occupational Health and Safety 1
-4. Introduction to C programming
+* Calculus 1
+* Introduction to Electrical & Electronics Engineering
+* Occupational Health and Safety 1
+* Introduction to C programming
 
 Second Semester
-1. Calculus 2
-2. Occupational Health and Safety 2
-3. Object-Oriented Programming with C++
-4. Circuit Analysis 1 
+* Calculus 2
+* Occupational Health and Safety 2
+* Object-Oriented Programming with C++
+* Circuit Analysis 1 
 
 Third Semester
-1. Circuit Analysis 2
-2. Probability and Random Variables
-3. Digital Logic Design
-4. Programming with Matlab
+* Circuit Analysis 2
+* Probability and Random Variables
+* Digital Logic Design
+* Programming with Matlab
 
 Fourth Semester
-1. Analog Electronics 1
-2. Technical Drawing with AutoCAD
-3. Introduction to Data Science
+* Analog Electronics 1
+* Technical Drawing with AutoCAD
+* Introduction to Data Science
 
 Fifth Semester
-1. Analog Electronics 2
-2. Microprocessors
-3. Quality Management
+* Analog Electronics 2
+* Microprocessors
+* Quality Management
 
 Sixth Semester
 1. Signals and Systems
@@ -49,10 +49,10 @@ Sixth Semester
 4. Embedded Systems
 
 Seventh Semester
-1. Introduction to Machine Learning
-2. Communication Theory 2
-3. Modern Control Theory
-4. Systems Engineering
+* Introduction to Machine Learning
+* Communication Theory 2
+* Modern Control Theory
+* Systems Engineering
 
 # Certificates
 | Number | Name | Date | Issued By
@@ -80,8 +80,8 @@ Seventh Semester
 > **Summer Intern**
 > 08.2023 – 09.2023
 
-•  We tested the compliance of electrical cables with relevant ISO standards by performing experiments such as wall thickness and tensile-rupture strength. In this way, we ensured the reliability and sustainability of the cables.
+* We tested the compliance of electrical cables with relevant ISO standards by performing experiments such as wall thickness and tensile-rupture strength. In this way, we ensured the reliability and sustainability of the cables.
 
-•  In the IP laboratory, we tested the durability of the devices against extreme conditions by conducting water and dust permeability experiments, especially on lighting devices.
+* In the IP laboratory, we tested the durability of the devices against extreme conditions by conducting water and dust permeability experiments, especially on lighting devices.
  
 
