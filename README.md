@@ -71,9 +71,10 @@ Seventh Semester
 # Seminars Attended
 | Number | Name | Date | Issued By
 | --- | --- | --- | --- |
-| 1 | Sufle Mühendisligine Giris | 16.11.2023 | Ankara Universitesi Muhendislik Fakultesi 
+| 1 | Sufle Mühendisligine Giris | 16.11.2023 | Prof. Dr. Asim Egemen YILMAZ - Ankara Universitesi Muhendislik Fakultesi 
 | 2 | Birinci Elektronik Harp Sempozyumu | 06.11.2023 | Savunma Sanayii Baskanligi (SSB) 
-| 3 | Ankara 4. Sanayi Devrimi Yolunda | 25.01.2020 | Ankara Universitesi Akilli Sistemler ve Teknolojiler Uygulama ve Arastirma Merkezi (ASTAM) 
+| 3 | Ogrenci Kariyer Etkinligi | 21.04.2022 | Dr. Mehmet Cemil KAZANBAS TUSAS - Aviyonik Direktoru
+| 4 | Ankara 4. Sanayi Devrimi Yolunda | 25.01.2020 | Ankara Universitesi Akilli Sistemler ve Teknolojiler Uygulama ve Arastirma Merkezi (ASTAM) 
 
 # Professional Experience
 ### Türk Standardları Enstitüsü                                        
