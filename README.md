@@ -73,9 +73,9 @@ Seventh Semester
 | --- | --- | --- | --- |
 | 1 | [Pardus Egitimi](https://github.com/nmertel/Certificates/blob/main/Certificates%20PDF/Pardus_Egitimi.pdf) | 09.02.2024 | Şenol ALDIBAS - TUBITAK ULAKBIM Egitmen
 | 2 | [Bilinmeyen Bilim Metroloji](https://github.com/nmertel/Certificates/blob/main/Certificates%20PDF/Bilinmeyen_Bilim_Metroloji.pdf) | 09.02.2024 | Ugur AKKAYA - TUBITAK UME Kurumsal Iletisim Sorumlusu
-| 3 | Sufle Mühendisligine Giris | 16.11.2023 | Prof. Dr. Asim Egemen YILMAZ - Ankara Universitesi Muhendislik Fakultesi 
+| 3 | Sufle Mühendisligine Giris | 16.11.2023 | Prof. Dr. Asim Egemen YILMAZ - Ankara Universitesi Elektrik ve Elektronik Mühendisligi Bolum Baskani
 | 4 | Birinci Elektronik Harp Sempozyumu | 06.11.2023 | Savunma Sanayii Baskanligi (SSB) 
-| 5 | Ogrenci Kariyer Etkinligi | 21.04.2022 | TUSAS Aviyonik Direktoru Dr. Mehmet Cemil KAZANBAS
+| 5 | Ogrenci Kariyer Etkinligi | 21.04.2022 | Dr. Mehmet Cemil KAZANBAS - TUSAS Aviyonik Direktoru 
 | 6 | Ankara 4. Sanayi Devrimi Yolunda | 25.01.2020 | Ankara Universitesi Akilli Sistemler ve Teknolojiler Uygulama ve Arastirma Merkezi (ASTAM) 
 
 
