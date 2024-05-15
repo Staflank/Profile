@@ -13,10 +13,8 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 
 > 2019-2024 (Cont.)
 
-### Projects
+### School Projects
 > Autonomous Rover Object Detection
-
->  Student Information System
 
 > Vehicle Door Detector via Can-Bus Shield
 
@@ -24,13 +22,16 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 
 > Clothing Size Matcher
 
+> SQUID Magnetometer
+
+> Alzheimer Detection using CNN in Pyhton 
+
+> Movie Recommendation using KNN in Pyhton 
+
+### Unique Projects
 > Vending Machine Simulation on Vivado
 
-> Alzheimer Detection using CNN
-
-> Movie Recommender System using CNN
-
-> SQUID Magnetometer
+> Student Information System
 
 
 
