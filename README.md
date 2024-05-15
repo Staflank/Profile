@@ -14,11 +14,11 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 > 2019-2024 (Cont.)
 
 ### Projects
-Autonomous Rover Object Detection
-Vehicle Door Detector via Can-Bus Shield 
-Distance Measurement with Ultrasonic Sensor
-Clothing Size Matcher
-Vending Machine Simulation on Vivado
+* Autonomous Rover Object Detection
+* Vehicle Door Detector via Can-Bus Shield 
+* Distance Measurement with Ultrasonic Sensor
+* Clothing Size Matcher
+* Vending Machine Simulation on Vivado
 
 ### Highlighting Courses 
 First Semester
