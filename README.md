@@ -15,9 +15,13 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 
 ### Projects
 > Autonomous Rover Object Detection
-> Vehicle Door Detector via Can-Bus Shield 
+
+> Vehicle Door Detector via Can-Bus Shield
+
 > Distance Measurement with Ultrasonic Sensor
+
 > Clothing Size Matcher
+
 > Vending Machine Simulation on Vivado
 
 ### Highlighting Courses 
