@@ -16,6 +16,8 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 ### Projects
 > Autonomous Rover Object Detection
 
+>  Student Information System
+
 > Vehicle Door Detector via Can-Bus Shield
 
 > Distance Measurement with Ultrasonic Sensor
@@ -23,6 +25,14 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 > Clothing Size Matcher
 
 > Vending Machine Simulation on Vivado
+
+> Alzheimer Detection using CNN
+
+> Movie Recommender System using CNN
+
+> SQUID Magnetometer
+
+
 
 ### Highlighting Courses 
 First Semester
