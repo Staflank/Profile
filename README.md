@@ -28,7 +28,7 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 
 > Movie Recommendation using KNN in Pyhton 
 
-### Unique Projects
+### Individual Projects
 > Vending Machine Simulation on Vivado
 
 > Student Information System
