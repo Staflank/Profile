@@ -93,12 +93,13 @@ Seventh Semester
 # Seminars Attended
 | Number | Name | Date | Issued By
 | --- | --- | --- | --- |
-| 1 | [Pardus Egitimi](https://github.com/nmertel/Certificates/blob/main/Certificates%20PDF/Pardus_Egitimi.pdf) | 09.02.2024 | Şenol ALDIBAS - TUBITAK ULAKBIM Egitmen
-| 2 | [Bilinmeyen Bilim Metroloji](https://github.com/nmertel/Certificates/blob/main/Certificates%20PDF/Bilinmeyen_Bilim_Metroloji.pdf) | 09.02.2024 | Ugur AKKAYA - TUBITAK UME Kurumsal Iletisim Sorumlusu
-| 3 | Prompt Engineering - Sufle Mühendisligine Giris | 16.11.2023 | Prof. Dr. Asim Egemen YILMAZ - Ankara Universitesi Elektrik ve Elektronik Mühendisligi Bolum Baskani
-| 4 | Birinci Elektronik Harp Sempozyumu | 06.11.2023 | Savunma Sanayii Baskanligi (SSB) 
-| 5 | Ogrenci Kariyer Etkinligi | 21.04.2022 | Dr. Mehmet Cemil KAZANBAS - TUSAS Aviyonik Direktoru 
-| 6 | Ankara 4. Sanayi Devrimi Yolunda | 25.01.2020 | Ankara Universitesi Akilli Sistemler ve Teknolojiler Uygulama ve Arastirma Merkezi (ASTAM) 
+| 1 | [Enlerin Bulusmasi](https://github.com/nmertel/Certificates/blob/main/Certificates%20PDF/ATILIM_IESC.pdf) | 14.02.2024 | Atılım Üniversitesi Endüstri Mühendisliği Öğrenci Topluluğu (IESC)
+| 2 | [Pardus Egitimi](https://github.com/nmertel/Certificates/blob/main/Certificates%20PDF/Pardus_Egitimi.pdf) | 09.02.2024 | Şenol ALDIBAS - TUBITAK ULAKBIM Egitmen
+| 3 | [Bilinmeyen Bilim Metroloji](https://github.com/nmertel/Certificates/blob/main/Certificates%20PDF/Bilinmeyen_Bilim_Metroloji.pdf) | 09.02.2024 | Ugur AKKAYA - TUBITAK UME Kurumsal Iletisim Sorumlusu
+| 4 | Prompt Engineering - Sufle Mühendisligine Giris | 16.11.2023 | Prof. Dr. Asim Egemen YILMAZ - Ankara Universitesi Elektrik ve Elektronik Mühendisligi Bolum Baskani
+| 5 | Birinci Elektronik Harp Sempozyumu | 06.11.2023 | Savunma Sanayii Baskanligi (SSB) 
+| 6 | Ogrenci Kariyer Etkinligi | 21.04.2022 | Dr. Mehmet Cemil KAZANBAS - TUSAS Aviyonik Direktoru 
+| 7 | Ankara 4. Sanayi Devrimi Yolunda | 25.01.2020 | Ankara Universitesi Akilli Sistemler ve Teknolojiler Uygulama ve Arastirma Merkezi (ASTAM) 
 
 
 # Professional Experience
