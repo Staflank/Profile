@@ -1,8 +1,8 @@
 # Hi there, I'm Nurullah Mertel 👋
-I am currently a senior student of Electrical and Electronics Engineering and I am constantly pursuing to improve myself in the field of embedded systems and automation.
+I am currently a senior student of Electrical and Electronics Engineering and I am constantly pursuing to improve myself in the field of embedded systems and automation
 
 ### Cool stuff about me
-* 🔭I’m currently working at an Research Instution to build projects using C++ 
+* 🔭I’m currently working at an Research Instution to build software development projects
 * 🌱I’m currently learning everything that makes sense
 * 📫Reach me at: nurullahmertell@gmail.com
 * ⚡I like to play ping pong and pet cats
