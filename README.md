@@ -29,9 +29,9 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 > Movie Recommendation using KNN in Pyhton 
 
 ### Individual Projects
-> Vending Machine System on Vivado
+> Vending Machine System 
 
-> Wallace Tree on Vivado
+> Wallace Tree 
 
 > Student Information System
 
