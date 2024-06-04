@@ -2,7 +2,7 @@
 I am currently a senior student of Electrical and Electronics Engineering and I am constantly pursuing to improve myself in the field of embedded systems and automation.
 
 ### Cool stuff about me
-* 🔭I’m currently working on an autonomous rover project
+* 🔭I’m currently working at an Research Instution to build C++ project
 * 🌱I’m currently learning everything that makes sense
 * 📫Reach me at: nurullahmertell@gmail.com
 * ⚡I like to play ping pong and pet cats
