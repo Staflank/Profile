@@ -29,13 +29,13 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 > Movie Recommendation using KNN in Pyhton 
 
 ### Individual Projects
-> EDEN Academy
+> ECEN Academy
+
+> Student Information System
 
 > Vending Machine System 
 
 > Wallace Tree 
-
-> Student Information System
 
 > Mini Games
 
