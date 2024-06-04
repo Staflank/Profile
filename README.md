@@ -35,6 +35,8 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 
 > Student Information System
 
+> Mini Games
+
 ### Highlighting Courses 
 First Semester
 * Calculus 1
