@@ -28,7 +28,7 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 
 > Movie Recommendation using KNN in Pyhton 
 
-### Individual Projects
+### Individual Works
 > ECEN Academy
 
 > Student Information System
