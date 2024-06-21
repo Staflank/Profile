@@ -127,5 +127,5 @@ Seventh Semester
 
 > Trainee Internship
 
-* With expertise in software development using C and C++ programming languages, and with the guidance of mentors and colleagues, we focused on creating reliable and maintainable embedded projects.
+* Under the guidance of mentors and colleagues, we focused on building reliable and sustainable embedded projects using C and C++ programming languages.
 
