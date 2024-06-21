@@ -120,6 +120,7 @@ Seventh Semester
 
 * [Certificate of Participation](https://github.com/nmertel/Certificates/blob/main/Certificates%20PDF/TSE%20Staj%20Kat%C4%B1l%C4%B1m%20Belgesi.pdf)
 
+
 ### TÜBİTAK SAGE
 > 02.2024 - Continue
 
