@@ -78,9 +78,11 @@ Seventh Semester
 * Communication Theory 2
 * Modern Control Theory
 * Systems Engineering
+* Graduation Project 1
 
 Eighth Semester
 * Special Topics
+* Graduation Project 2
 
 # Certificates
 | Number | Name | Date | Issued By
