@@ -76,7 +76,6 @@ Sixth Semester
 Seventh Semester
 * Introduction to Machine Learning
 * Communication Theory 2
-* Modern Control Theory
 * Systems Engineering
 * Graduation Project 1
 
