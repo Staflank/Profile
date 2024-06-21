@@ -79,7 +79,7 @@ Seventh Semester
 * Modern Control Theory
 * Systems Engineering
 
-Eight Semester
+Eighth Semester
 * Special Topics
 
 # Certificates
