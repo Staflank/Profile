@@ -107,6 +107,16 @@ Seventh Semester
 
 
 # Professional Experience
+### TÜBİTAK SAGE
+> 02.2024 - Continue
+
+> Ankara
+
+> Trainee Internship
+
+* Under the guidance of mentors and colleagues, we focused on building reliable and sustainable embedded projects using C and C++ programming languages.
+
+
 ### Türk Standardları Enstitüsü                                        
 > 08.2023 – 09.2023
 
@@ -119,14 +129,4 @@ Seventh Semester
 * In the IP laboratory, we tested the durability of the devices against extreme conditions by conducting water and dust permeability experiments, especially on lighting devices.
 
 * [Certificate of Participation](https://github.com/nmertel/Certificates/blob/main/Certificates%20PDF/TSE%20Staj%20Kat%C4%B1l%C4%B1m%20Belgesi.pdf)
-
-
-### TÜBİTAK SAGE
-> 02.2024 - Continue
-
-> Ankara
-
-> Trainee Internship
-
-* Under the guidance of mentors and colleagues, we focused on building reliable and sustainable embedded projects using C and C++ programming languages.
 
