@@ -71,7 +71,6 @@ Fifth Semester
 Sixth Semester
 * Signals and Systems
 * Communication Theory 1
-* Feedback Control Systems
 * Embedded Systems
 
 Seventh Semester
@@ -79,6 +78,9 @@ Seventh Semester
 * Communication Theory 2
 * Modern Control Theory
 * Systems Engineering
+
+Eight Semester
+* Special Topics
 
 # Certificates
 | Number | Name | Date | Issued By
