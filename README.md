@@ -31,6 +31,8 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 ### Individual Works
 > ECEN Academy
 
+> Proteus Circuit Designs
+
 > Student Information System
 
 > Vending Machine System 
