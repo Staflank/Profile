@@ -88,16 +88,17 @@ Eighth Semester
 # Certificates
 | Number | Name | Date | Issued By
 | --- | --- | --- | --- |
-| 1 | [Engineering Career Summit '23](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/Engineering%20Career%20Summit%20'23.pdf) | 05.12.2023 | Youthall
-| 2 | [Beden Dili](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/Beden%20Dili.pdf) | 11.11.2023 | Udemy
-| 3 | [Algoritma 101](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/Algoritma%20101.pdf) | 18.10.2023 | Digicertify
-| 4 | [Pyhton 40 minutes](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/Pyhton%2040%20minutes.pdf) | 05.10.2023 | Udemy
-| 5 | [C++ ile Nesneye Yönelik Programlama](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/C%2B%2B%20ile%20Nesneye%20Y%C3%B6nelik%20Programlama.pdf) | 01.09.2023 | Udemy
-| 6 | [Etkili İletişim Becerileri](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/Etkili%20%C4%B0leti%C5%9Fim.pdf) | 22.08.2023 | Udemy
-| 7 | [İş Sağlığı ve Güvenliği Belgesi](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%20Belgesi.pdf) | 03.06.2023 | ÇASGEM
-| 8 | [FPGA ile Dİjital Tasarım](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/FPGA%20ile%20Dijital%20Tasar%C4%B1m.pdf) | 02.03.2023 | Udemy
-| 9 | [English for Career Development](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/English%20for%20Career%20Development.pdf) | 09.10.2022 | Coursera
-| 10 | [Bilgi Teknolojilerine Giris](https://github.com/nmertel/Certificates/blob/main/Certificates%20PDF/Bilgi_Teknolojilerine_Giri%C5%9F_Sertifika.pdf) | 24.09.2020 | BTK Akademi
+| 1 | [ARM Cortex-M 101](https://github.com/nmertel/Certificates/blob/main/Certificates%20PDF/ARM_CORTEX_M_101.pdf) | 25.06.2024 | inPyjama
+| 2 | [Engineering Career Summit '23](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/Engineering%20Career%20Summit%20'23.pdf) | 05.12.2023 | Youthall
+| 3 | [Beden Dili](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/Beden%20Dili.pdf) | 11.11.2023 | Udemy
+| 4 | [Algoritma 101](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/Algoritma%20101.pdf) | 18.10.2023 | Digicertify
+| 5 | [Pyhton 40 minutes](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/Pyhton%2040%20minutes.pdf) | 05.10.2023 | Udemy
+| 6 | [C++ ile Nesneye Yönelik Programlama](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/C%2B%2B%20ile%20Nesneye%20Y%C3%B6nelik%20Programlama.pdf) | 01.09.2023 | Udemy
+| 7 | [Etkili İletişim Becerileri](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/Etkili%20%C4%B0leti%C5%9Fim.pdf) | 22.08.2023 | Udemy
+| 8 | [İş Sağlığı ve Güvenliği Belgesi](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%20Belgesi.pdf) | 03.06.2023 | ÇASGEM
+| 9 | [FPGA ile Dİjital Tasarım](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/FPGA%20ile%20Dijital%20Tasar%C4%B1m.pdf) | 02.03.2023 | Udemy
+| 10 | [English for Career Development](https://github.com/nurullahmertel/Certificates/blob/main/Certificates%20PDF/English%20for%20Career%20Development.pdf) | 09.10.2022 | Coursera
+| 11 | [Bilgi Teknolojilerine Giris](https://github.com/nmertel/Certificates/blob/main/Certificates%20PDF/Bilgi_Teknolojilerine_Giri%C5%9F_Sertifika.pdf) | 24.09.2020 | BTK Akademi
 
 # Seminars Attended
 | Number | Name | Date | Issued By
