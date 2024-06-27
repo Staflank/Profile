@@ -5,7 +5,7 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 * 🔭I’m currently studying my senior year at EEE
 * 🌱I’m currently learning everything that makes sense
 * 📫Reach me at: nurullahmertell@gmail.com
-* ⚡I like to play ping pong and pet cats
+* ⚡One day or day one
 
 # Education
 ### Ankara University
@@ -29,7 +29,9 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 > Movie Recommendation using KNN in Pyhton 
 
 ### Individual Works
-> ECEN Academy
+> ECEN Academy: Starting, 21.06.2024 - Day 6/120
+
+> DSA: Starting, 27.06.2024 - Day 1/120
 
 > Proteus Circuit Designs
 
