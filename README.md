@@ -1,7 +1,7 @@
 # Hi there, I'm Nurullah Mertel 👋
 I am currently a senior student of Electrical and Electronics Engineering and I am constantly pursuing to improve myself in the field of embedded systems and automation. 
 
-# Motivation
+### Motivation
 One day or day one  
 
 ### Cool stuff about me
