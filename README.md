@@ -1,12 +1,14 @@
 # Hi there, I'm Nurullah Mertel 👋
-I am currently a senior student of Electrical and Electronics Engineering and I am constantly pursuing to improve myself in the field of embedded systems and automation
+I am currently a senior student of Electrical and Electronics Engineering and I am constantly pursuing to improve myself in the field of embedded systems and automation. 
+
+# Motivation
+One day or day one  
 
 ### Cool stuff about me
 * 🔭I’m currently studying my senior year at EEE
 * 🌱I’m currently learning everything that makes sense
 * 📫Reach me at: nurullahmertell@gmail.com
-* ⚡One day or day one
-* Check my [Quora](https://www.quora.com/profile/N1urullah-Mertel?ch=10&oid=2547824987&share=373269f2&srid=3MJ74D&target_type=user) account to access Embedded System Course Notes
+* ⚡Check my [Quora](https://www.quora.com/profile/N1urullah-Mertel?ch=10&oid=2547824987&share=373269f2&srid=3MJ74D&target_type=user) account to access Embedded System Course Notes
 
 # Education
 ### Ankara University
