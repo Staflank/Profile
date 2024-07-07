@@ -8,7 +8,7 @@ One day or day one
 * 🔭I’m currently studying my senior year at EEE
 * 🌱I’m currently learning everything that makes sense
 * 📫Reach me at: nurullahmertell@gmail.com
-* ⚡Check my [Quora](https://www.quora.com/profile/N1urullah-Mertel?ch=10&oid=2547824987&share=373269f2&srid=3MJ74D&target_type=user) account to access Embedded System Course Notes
+* ⚡Check my [Quora](https://www.quora.com/profile/N1urullah-Mertel?ch=10&oid=2547824987&share=373269f2&srid=3MJ74D&target_type=user) account to access Embedded Systems Course Notes
 
 # Education
 ### Ankara University
