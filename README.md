@@ -6,6 +6,7 @@ I am currently a senior student of Electrical and Electronics Engineering and I 
 * 🌱I’m currently learning everything that makes sense
 * 📫Reach me at: nurullahmertell@gmail.com
 * ⚡One day or day one
+* [Check my Quora account to access Embedded System Course Notes] (https://www.quora.com/profile/N1urullah-Mertel?ch=10&oid=2547824987&share=373269f2&srid=3MJ74D&target_type=user) 
 
 # Education
 ### Ankara University
