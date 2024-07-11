@@ -2,7 +2,7 @@
 I am currently a senior year student of Electrical and Electronics Engineering and I am constantly pursuing to improve myself in the field of embedded systems and automation. 
 
 ### Motivation  
-Consistency is key
+Consistency is 🗝️
 
 ### Cool stuff about me
 * 🔭I’m currently studying my senior year at EEE
