@@ -1,8 +1,8 @@
 # Hi there, I'm Nurullah Mertel 👋
 I am currently a senior year student of Electrical and Electronics Engineering and I am constantly pursuing to improve myself in the field of embedded systems and automation. 
 
-### Motivation
-One day or day one  
+### Motivation  
+Consistency is key
 
 ### Cool stuff about me
 * 🔭I’m currently studying my senior year at EEE
