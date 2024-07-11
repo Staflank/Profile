@@ -32,7 +32,7 @@ One day or day one
 > Movie Recommendation using KNN in Pyhton 
 
 ### Individual Works
-> ECEN Academy: Starting, 21.06.2024 - Day 7/120
+> [ECEN Academy](https://www.quora.com/profile/N1urullah-Mertel?ch=10&oid=2547824987&share=373269f2&srid=3MJ74D&target_type=user) : 
 
 > DSA: Starting, 27.06.2024 - Day 1/120
 
