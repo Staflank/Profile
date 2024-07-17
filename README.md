@@ -1,5 +1,5 @@
 # Hi there, I'm Nurullah Mertel 👋
-I am currently a senior year student of Electrical and Electronics Engineering and I am constantly pursuing to improve myself in the field of embedded systems and automation. 
+I am currently a Electrical and Electronics Engineering License Degree Graduated and I am constantly pursuing to improve myself in the field of embedded systems and automation. 
 
 ### Motivation  
 🗝️ Consistency is what transforms average into excellence
