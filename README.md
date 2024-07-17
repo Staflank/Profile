@@ -34,7 +34,7 @@ I am currently a senior year student of Electrical and Electronics Engineering a
 ### Individual Works
 > [ECEN Academy](https://www.quora.com/profile/N1urullah-Mertel?ch=10&oid=2547824987&share=373269f2&srid=3MJ74D&target_type=user) 
 
-> DSA: Starting, 27.06.2024 - Day 1/120
+> DSA
 
 > Proteus Circuit Designs
 
