@@ -32,7 +32,9 @@ I am currently an Electrical and Electronics Engineering License Degree Graduate
 > Movie Recommendation using KNN in Pyhton 
 
 ### Individual Works
-> [ECEN Academy](https://www.quora.com/profile/N1urullah-Mertel?ch=10&oid=2547824987&share=373269f2&srid=3MJ74D&target_type=user) 
+> ECEN Academy
+* C Language
+* C Programming
 
 > DSA
 
