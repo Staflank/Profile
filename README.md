@@ -5,7 +5,7 @@ I am currently an Electrical and Electronics Engineering License Degree Graduate
 🗝️ Consistency is what transforms average into excellence
 
 ### Cool stuff about me
-* 🔭I’m currently studying my senior year at EEE
+* 🔭I’m currently having an engineering from EEE
 * 🌱I’m currently learning everything that makes sense
 * 📫Reach me at: nurullahmertell@gmail.com
 * ⚡Check my [Quora account ](https://www.quora.com/profile/N1urullah-Mertel?ch=10&oid=2547824987&share=373269f2&srid=3MJ74D&target_type=user) to access Embedded Systems Course Notes
