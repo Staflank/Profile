@@ -13,7 +13,7 @@ I am currently an Electrical and Electronics Engineering License Degree Graduate
 ### Ankara University
 > Bachelor of Engineering - BE, Electrical and Electronics Engineering - GPA 3.12
 
-> 2019-2024 (Cont.)
+> 2019-2024 
 
 ### School Projects
 > Autonomous Rover Object Detection
