@@ -5,7 +5,7 @@ I am currently an Electrical and Electronics Engineering License Degree Graduate
 🗝️ Consistency is what transforms average into excellence
 
 ### Cool stuff about me
-* 🔭I’m currently having an engineering from EEE
+* 🔭I’m currently having an engineering license degree from EEE
 * 🌱I’m currently learning everything that makes sense
 * 📫Reach me at: nurullahmertell@gmail.com
 
