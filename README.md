@@ -31,7 +31,9 @@ I am currently an Electrical and Electronics Engineering License Degree Graduate
 > Movie Recommendation using KNN in Pyhton 
 
 ### Individual Works
-> [ECEN Academy](https://www.notion.so/95c9be41a0434e8d9e852f4bb4b9c9e1?v=e76635b5a7094382b4e1555e5072a817&pvs=4) 
+> [ECEN Academy](https://www.notion.so/95c9be41a0434e8d9e852f4bb4b9c9e1?v=e76635b5a7094382b4e1555e5072a817&pvs=4)
+
+> Arduino
 
 > DSA
 
