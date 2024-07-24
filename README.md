@@ -35,13 +35,9 @@ I am currently an Electrical and Electronics Engineering License Degree Graduate
 
 > [Wokwi Projects](https://wokwi.com/makers/pointer) 
 
-> Proteus Circuit Designs
-
 > Student Information System
 
 > Vending Machine System 
-
-> Wallace Tree 
 
 > Mini Games
 
