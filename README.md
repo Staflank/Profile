@@ -35,9 +35,9 @@ I am currently an Electrical and Electronics Engineering License Degree Graduate
 
 > Designing UART Protocol
 
-> Student Information System
+> Student Information Project
 
-> Vending Machine System 
+> Vending Machine Project 
 
 ### Highlighting Courses 
 First Semester
