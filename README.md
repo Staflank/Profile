@@ -13,29 +13,27 @@ I am currently an Electrical and Electronics Engineering License Degree Graduate
 ### Ankara University
 > Bachelor of Engineering - BE, Electrical and Electronics Engineering - GPA 3.12
 
-> 2019-2024 
+> 2019-2024
+
+> Graduation Project 
 
 ### School Projects
-> Autonomous Rover Object Detection
-
 > Vehicle Door Detector via Can-Bus Shield
 
-> Distance Measurement with Ultrasonic Sensor
+> Ultrasonic Distance Measurement  
 
 > Clothing Size Matcher
-
-> SQUID Magnetometer
 
 > Alzheimer Detection using CNN in Pyhton 
 
 > Movie Recommendation using KNN in Pyhton 
 
 ### Individual Works
+> Data Structures and Algorithms (DSA) 
+
 > [ECEN Academy](https://www.notion.so/95c9be41a0434e8d9e852f4bb4b9c9e1?v=e76635b5a7094382b4e1555e5072a817&pvs=4)
 
 > [Wokwi Projects](https://wokwi.com/makers/pointer)
-
-> Data Structures and Algorithms (DSA) 
 
 > Student Information System
 
