@@ -1,5 +1,5 @@
 # Hi there, I'm Nurullah Mertel 👋
-I am currently an Electrical and Electronics Engineering License Degree Graduated and I am constantly pursuing to improve myself in the field of embedded systems and automation
+I am currently an Electrical and Electronics Engineering License Degree Graduated and I am constantly pursuing to improve myself in the field of embedded systems programming and automation
 
 ### Motivation  
 🗝️ Consistency is what transforms average into excellence
