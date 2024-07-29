@@ -18,7 +18,7 @@ I am currently an Electrical and Electronics Engineering License Degree Graduate
 > Graduation Project 
 
 ### School Projects
-> Vehicle Door Detector via Can-Bus Shield
+> Vehicle Door Detector
 
 > Ultrasonic Distance Measurement  
 
