@@ -35,7 +35,9 @@ I am currently an Electrical and Electronics Engineering License Degree Graduate
 
 > [Wokwi Projects](https://wokwi.com/makers/pointer)
 
-> Student Information System
+> Designing UART Protocol
+
+>Student Information System
 
 > Vending Machine System 
 
