@@ -29,17 +29,9 @@ I am currently an Electrical and Electronics Engineering License Degree Graduate
 > Movie Recommendation using KNN in Pyhton 
 
 ### Individual Works
-> Data Structures and Algorithms (DSA) 
-
 > [ECEN Academy](https://www.notion.so/95c9be41a0434e8d9e852f4bb4b9c9e1?v=e76635b5a7094382b4e1555e5072a817&pvs=4)
-  
-> PCB Design Academy
 
-> Designing UART Protocol
-
-> Student Information Project
-
-> Vending Machine Project 
+> [Wokwi Simulator](https://wokwi.com/makers/nurullah_mertel)
 
 ### Highlighting Courses 
 First Semester
