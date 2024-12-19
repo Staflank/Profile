@@ -19,13 +19,18 @@ I am currently an Electrical and Electronics Engineering License Degree Graduate
 
 ### School Projects
 > Vehicle Door Detector
-> Ultrasonic Distance Measurement  
+
+> Ultrasonic Distance Measurement
+
 > Clothing Size Matcher
-> Alzheimer Detection using CNN in Pyhton 
+
+> Alzheimer Detection using CNN in Pyhton
+
 > Movie Recommendation using KNN in Pyhton 
 
 ### Individual Works
 > [Wokwi Simulator Projects](https://wokwi.com/makers/nurullah_mertel)
+
 > [LCD Calculator Project](https://wokwi.com/projects/407186730979715073)
 
 ### Highlighting Courses 
